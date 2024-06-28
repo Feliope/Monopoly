@@ -1,0 +1,15 @@
+c,give,50,Multa por velocidade $50
+c,give,150,Pague $150
+c,get,30,Receba $30
+c,get,100,O banco te pagou $100
+c,giveall,50,Pague $50 a cada jogador
+c,move,go,Va para o inicio.
+cc,give,150,Honorarios medicos. Pague $150
+cc,give,50,Pague taxas do hospital
+cc,give,20,Pague $20
+cc,give,200,Pague taxas escolares
+cc,get,70,Receba $70
+cc,get,150,Voce ganhou $150
+cc,get,100,Receba $100
+cc,get,50,Receba $50
+cc,move,go,Va para o inicio.
